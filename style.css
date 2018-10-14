@@ -1,46 +1,29 @@
-h1 {
-font-family: Verdana;
-font-weight: Normal;
-font-size: 50px;
-color: white;
-font-alignment: centered;
-}
-
-html {
-  background-color: Black;
+body {
+  background-color: black;
   text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
-.download {
-  color: Aquamarine;
+.cta {
+  color: aquamarine;
   font-size: 16px;
-  font-family: Verdana;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
 }
 
 h2 {
-  font-family: Verdana;
-  font-weight: 300;
   font-size: 42px;
-  color: White;
 }
 
-.excursion {
-  font-family: Verdana;
+p {
   font-size: 21px;
-  color: Gray;
+  color: gray;
 }
 
-.copywrite {
+.footer {
   text-align: right;
-  color: Gray;
-  font-size: 21px;
-  font-family: Verdana;
-}
-
-.video {
-  font-size: 40;
-}
-
-a {
-  color: Aquamarine;
-}
+} 
