@@ -1,0 +1,46 @@
+h1 {
+font-family: Verdana;
+font-weight: Normal;
+font-size: 50px;
+color: white;
+font-alignment: centered;
+}
+
+html {
+  background-color: Black;
+  text-align: center;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+.excursion {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.copywrite {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+  font-family: Verdana;
+}
+
+.video {
+  font-size: 40;
+}
+
+a {
+  color: Aquamarine;
+}
